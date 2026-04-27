@@ -4,7 +4,7 @@
 为VR头显开发的外置眼部+面部追踪套件。轻量化、模块化的设计，目标适配主流头显设备。采用HTTP MJPEG流传输，兼容Project Babble、EyeTrackVR等软件。**目前项目正在努力开发中。**
 ## 项目历程
 **2026年3月** 电源模块更新到v2.0，体积更小，重量更轻。无线模式时，电池可提供约1小时续航。
-![enter image description here](!%5B20260426235115-296-24.avif%5D%28https://user9630.cn.imgto.link/public/20260426/20260426235115-296-24.avif%29)
+[![enter image description here](!%5B20260426235115-296-24.avif%5D%28https://user9630.cn.imgto.link/public/20260426/20260426235115-296-24.avif%29)](https://cdn.phototourl.com/member/2026-04-27-13c232cd-602b-4202-8d3b-bde2af82660b.jpg)
 
 **2026年2月** 面部追踪模块更新到v2.0，使用专为面部追踪模块优化设计的摄像头主控板，移除独立的电源降压模块并集成到面部追踪模块。
 ![enter image description here](https://cdn.phototourl.com/member/2026-04-26-b9c9f21c-3310-448f-8f7b-4607c6b97bbb.jpg)
