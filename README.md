@@ -2,7 +2,13 @@
 ![enter image description here](https://cdn.phototourl.com/member/2026-04-26-5184d4bd-2160-49c2-b761-6a0f66db14c1.jpg)
 ![enter image description here](https://cdn.phototourl.com/free/2026-04-26-7873d0e5-c441-46f2-be72-2523bbf368a4.jpg)
 
-[toc]
+- [EZFaceTracker](#ezfacetracker)
+	- [项目简介/Project introduction](#项目简介project-introduction)
+	- [支持的设备/Supported headset](#支持的设备supported-headset)
+	- [光生物安全/Photobiological safety](#光生物安全photobiological-safety)
+	- [开发进度/Development progress](#开发进度development-progress)
+	- [自己复刻/DIY](#自己复刻diy)
+	- [许可协议/License](#许可协议license)
 
 ## 项目简介/Project introduction
 为VR头显开发的外置全脸识别追踪器。采用轻量化、模块化、与头显融合设计思路。目标适配主流头显设备。支持无线和有线传输模式，兼容Project Babble、EyeTrackVR等软件。**此项目正在积极开发中。**
