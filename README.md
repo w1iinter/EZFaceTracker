@@ -29,6 +29,7 @@ External Eye & Face Tracker for VR Headsets.Designed with a lightweight, modular
 **现在**正在优化面部追踪模块
 
 **2026年5月** 再次修改面部追踪模块的设计，虽然能完整的捕捉脸部画面，但是识别效果还是比较差，我想应该只能增加支架了。
+
 ![输入图片说明](https://cdn.phototourl.com/member/2026-05-24-9dedeb95-d04b-44ec-8d42-33cfdd951997.jpg)
 
 **2026年3月** 优化电源模块，体积更小，重量更轻。无线模式时，电池可提供约1小时续航。
