@@ -11,7 +11,7 @@
 	- [许可协议/License](#许可协议license)
 
 ## 项目简介/Project introduction
-为VR头显开发的外置全脸识别追踪器。采用轻量化、模块化、与头显融合的设计思路。目标适配主流头显设备。支持无线和有线传输模式，兼容Project Babble、EyeTrackVR等软件。**此项目正在积极开发中。**
+为VR头显开发的外置全脸识别追踪器。采用轻量化、模块化、与头显融合设计思路。目标适配主流头显设备。支持无线和有线传输模式，兼容Project Babble、EyeTrackVR等软件。**此项目正在积极开发中。**
 
 External Eye & Face Tracker for VR Headsets.Designed with a lightweight, modular, and headset-integrated approach. Aims to be compatible with major VR headsets. Supports both wireless and wired transmission, and works with software such as Project Babble and EyeTrackVR. **The project is currently under active development.**
 
@@ -26,7 +26,10 @@ External Eye & Face Tracker for VR Headsets.Designed with a lightweight, modular
 ## 光生物安全/Photobiological safety
 眼部光源使用了4颗型号为XL-1608HIRC-850的IR-LED,电源路径串联了一颗270Ω的电阻，单眼总电流约5毫安。
 ## 开发进度/Development progress
-**现在** 正在优化面部追踪模块，以提高追踪性能。
+**现在**正在优化面部追踪模块
+
+**2026年5月** 再次修改面部追踪模块的设计，虽然能完整的捕捉脸部画面，但是识别效果还是比较差，我想应该只能增加支架了。
+![输入图片说明](https://cdn.phototourl.com/member/2026-05-24-9dedeb95-d04b-44ec-8d42-33cfdd951997.jpg)
 
 **2026年3月** 优化电源模块，体积更小，重量更轻。无线模式时，电池可提供约1小时续航。
 
