@@ -13,7 +13,7 @@
 ## 项目简介/Project introduction
 为VR头显开发的外置全脸识别追踪器。采用轻量化、模块化的设计思路。目标适配主流头显设备。支持无线和有线传输模式，兼容Project Babble、EyeTrackVR等软件。**此项目正在积极开发中。**
 
-External Eye & Face Tracker for VR Headsets.Designed with a lightweight, modular, and headset-integrated approach. Aims to be compatible with major VR headsets. Supports both wireless and wired transmission, and works with software such as Project Babble and EyeTrackVR. **The project is currently under active development.**
+External Eye & Face Tracker for VR Headsets.Lightweight and modularization. Aims to be compatible with major VR headsets. Supports both wireless and wired transmission, and works with software such as Project Babble and EyeTrackVR. **The project is currently under active development.**
 
 ## 支持的设备/Supported headset
 - PICO 4
